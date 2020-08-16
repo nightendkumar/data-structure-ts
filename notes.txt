@@ -1,0 +1,20 @@
+Big-O notation
+It gives us upper bound of the running time according to the input size in the worst case scenario.
+We usually denote input size with n.
+
+Constant: O(1)
+Linear: O(n)
+Logarthimic: O(logn)
+Linearithmic: O(nlogn)
+Quadratic: O(n^2)
+Exponential: O(a^n)
+Factorial: O(n!)
+
+Bicause Big-O only cares about large input sizes, we drop constants and ignore smaller terms.
+
+
+1) Static vs Dynamic arrays
+2) Linked list
+   It is a linear data structure where the elements are not stores in 
+   contiguous memory locations.
+   The elements in linked list are linked using pointers.
